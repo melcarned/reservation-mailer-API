@@ -1,7 +1,5 @@
 var express = require("express");
 var nodemailer = require("nodemailer");
-var fs = require("fs");
-var path = require("path");
 var bodyParser = require("body-parser");
 const app = express();
 
